@@ -1,0 +1,14 @@
+- [ ] Read current lap10 notebooks to confirm missing/placeholder cells
+- [ ] Update `lap10/02-SVM Assignment.ipynb` to include all required code for iris assignment:
+  - [ ] Import libraries
+  - [ ] Load iris via seaborn
+  - [ ] Create pairplot
+  - [ ] Create kde plot (setosa)
+  - [ ] Train/test split
+  - [ ] Train SVC()
+  - [ ] Confusion matrix + classification report
+  - [ ] GridSearchCV with C and gamma
+  - [ ] Evaluate tuned model (confusion matrix + classification report)
+- [ ] Update `lap10/01-Support Vector Machines.ipynb` if needed to ensure it runs cleanly end-to-end
+- [ ] Sanity check by running a python export equivalent or executing notebooks via a minimal script
+- [ ] Mark todo steps as complete
